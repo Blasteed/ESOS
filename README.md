@@ -1,3 +1,8 @@
-# LOLCODE
+# ESOS
 
-This repostory contains some tests i tried on LOLCODE, an eso-language. I like it, it's kinda funny, try use it too... I used lci as interpreter (https://github.com/justinmeza/lci.git).
+This repostory contains some tests i tried on different eso-languages. 
+
+---
+
+#### For LOLCODE: 
+I used [lci](https://github.com/justinmeza/lci.git) as interpreter.
